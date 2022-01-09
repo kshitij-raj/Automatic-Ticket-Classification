@@ -17,7 +17,7 @@ Analyse patterns and classify tickets into the following five clusters based on 
  - Others 
 
 ## Dataset
-[!Dataset link]('https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view')
+[Dataset link] ('https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view')
 
 The data set given to you is in the .json format and contains 78,313 customer complaints with 22 features. You need to convert this to a dataframe in order to process the given complaints.
 
